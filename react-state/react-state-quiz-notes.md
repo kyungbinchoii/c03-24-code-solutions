@@ -19,7 +19,7 @@ Answer the following questions in the provided markdown file before turning in t
 - What two actions happen when you call a `state setter` function?
   updates the value of state and assigned it to the variable named for example setCount.
 - When does the local `state variable` get updated with the new value?
-  the local state variable gets updated with the new value when uhhhhhh?
+  In React, the local state variable gets updated with the new value after the component re-renders.
 
 ## Notes
 
